@@ -22,7 +22,7 @@ The game supports **keyboard inputs**, saves the **score**, and includes an **Au
    ```sh
    git clone https://github.com/MoJoSchuck/RockPaperScissorsJS.git
    ```
-2. ** Open the **index.html** file in your browser.
+2. **Open the index.html file in your browser.**
 
 ### 📸 Screenshot
 <img width="459" src="https://github.com/user-attachments/assets/6316d017-cc61-44f1-a2e7-b43eaffae522" />
